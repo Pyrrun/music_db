@@ -1,0 +1,4 @@
+Baza przedstawia bibliotekę utworów muzycznych. Utwory są klasyfikowane po albumach, wykonawcach i gatunkach. Znajdują się tam informacje o albumach: rok wydania, gatunek, liczba utworów itp. Podobnie z wykonawcami: kraj z jakiego pochodzi zespół i rok założenia. Można tworzyć własne playlisty, które będą zapisywane. Dostępna również jest lista najbardziej popularnych utworów, które zajmowały wysokie miejsca na listach przebojów. Nie zabrakło też listy podobnych do siebie albumów i utworów. Użytkownik może sortować muzykę po gatunkach i wykonawcach, znaleźć utwory podobne do tych, których słucha i stworzyć własną playlistę oraz przeglądać najpopularniejsze utwory na świecie. 
+
+Baza została wykonana w programie windows SQL server.
+Aby ją uruchomić należy wykonać skrypt music_db.sql tworzący całą bazę.
